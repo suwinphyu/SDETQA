@@ -1,0 +1,15 @@
+{
+	"username": "standard_user",
+	"password": "secret_sauce",
+	"high_price_item_sorting": "$49.99",
+	"low_price_item_sorting": "$7.99",
+	"firstname": "first name",
+	"lastname": "last name",
+	"postal_code" : "123098",
+	"subtotal" : "Item total: $31.98",
+	"tax": "Tax: $2.56",
+	"total_amount" : "Total: $34.54",
+	"locked_username" : "locked_out_user",
+	"locked_password" : "secret_sauce"
+}
+

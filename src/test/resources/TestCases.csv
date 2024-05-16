@@ -1,0 +1,10 @@
+testid,name,description,execute
+1,Launch_URL_Success,Verify tested webpage is launched successfully,true
+2,Login_ValidCredentials_Success,Verify login with valid credentials case is success,true
+3,Sorting_Price_HighToLow_Success,Verify sorting with price from high to low case is correct,true
+4,AddToCart_PriceWith1599_Success,Verify 2 items which has $15.99 price are added to shopping cart successfully,true
+5,Verify_OrderSummary_Success,Verify checkout process is success with order summary,true
+6,Checkout_With_ValidPaymentInfo_Success,Able to proceed checkout process by filling valid payment info,true
+7,Verify_PaymentInfo_in_CheckOutOverviewPage_Success,Verify order is completed with valid payment information and amount,true
+8,Verify_Logout_Success,Verify logout from application is success,true
+9,Login_With_LockedUserCredentials_Error,Unable to login with locked_out_user,true
