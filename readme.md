@@ -10,8 +10,12 @@
 - Log4j2 (v 2.20.0)
 - Java (Oracle Open JDK version 11.0.2)
 
+#### Web Driver Version
+- chrome-driverVersion - 118.0.5993.70
+- gecko-driverVersion  - 0.33.0
+- edge-driverVersion   - 118.0.2088.57
 
-
+  
 ### Pre-setup Configuration
 1. \src\test\resources\URLConfig.properties => Configure base URL
 2. \src\test\resources\TestData.json => All test data and login credentials data are presetup in this json file.
@@ -29,11 +33,6 @@
 ![images/browser.jpg](images/browser.jpg)
 
 ![images/directory.jpg](images/directory.jpg)
-
-### Web Driver Version
-- chrome-driverVersion - 118.0.5993.70
-- gecko-driverVersion  - 0.33.0
-- edge-driverVersion   - 118.0.2088.57
 
 ### Test Scenarios
 As a user, I want to log in to with valid user's credential and add the product to the shopping cart and then proceed to checkout successfully.
