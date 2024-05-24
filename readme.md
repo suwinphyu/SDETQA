@@ -4,7 +4,7 @@
 
 ### Test automation framework based on:
 - Selenium WebDriver (v 4.14.1)
-- TestNG (v 6.14.2)
+- TestNG (v 7.8.0)
 - Maven (v 3.10.1)
 - ExtentReports (v 5.0.8)
 - Log4j2 (v 2.20.0)
